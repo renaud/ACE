@@ -5,11 +5,13 @@ ACE stands for Automated Coordinate Extraction. It's a Python package for automa
 
 ## Installation
 
+Make sure you have all the dependencies installed (see requirements.txt), e.g.
+
+	> pip install -r requirements.txt
+
 Install the package from source:
 
 	> python setup.py install
-
-Make sure you have all the dependencies installed (see requirements.txt).
 
 That's all!
 
